@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\C\u002B\u002B\\Input \u0026 Validation library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{434231ED-CDB6-414E-A58E-2A82425EC240}|Input \u0026 Validation library\\Input \u0026 Validation library.vcxproj|D:\\Programming\\C\u002B\u002B\\Input \u0026 Validation library\\Input \u0026 Validation library\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{434231ED-CDB6-414E-A58E-2A82425EC240}|Input \u0026 Validation library\\Input \u0026 Validation library.vcxproj|solutionrelative:Input \u0026 Validation library\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434231ED-CDB6-414E-A58E-2A82425EC240}|Input \u0026 Validation library\\Input \u0026 Validation library.vcxproj|D:\\Programming\\C\u002B\u002B\\Input \u0026 Validation library\\Input \u0026 Validation library\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{434231ED-CDB6-414E-A58E-2A82425EC240}|Input \u0026 Validation library\\Input \u0026 Validation library.vcxproj|solutionrelative:Input \u0026 Validation library\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434231ED-CDB6-414E-A58E-2A82425EC240}|Input \u0026 Validation library\\Input \u0026 Validation library.vcxproj|D:\\Programming\\C\u002B\u002B\\Input \u0026 Validation library\\Input \u0026 Validation library\\Input \u0026 Validation library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{434231ED-CDB6-414E-A58E-2A82425EC240}|Input \u0026 Validation library\\Input \u0026 Validation library.vcxproj|solutionrelative:Input \u0026 Validation library\\Input \u0026 Validation library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434231ED-CDB6-414E-A58E-2A82425EC240}|Input \u0026 Validation library\\Input \u0026 Validation library.vcxproj|D:\\Programming\\C\u002B\u002B\\Input \u0026 Validation library\\Input \u0026 Validation library\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{434231ED-CDB6-414E-A58E-2A82425EC240}|Input \u0026 Validation library\\Input \u0026 Validation library.vcxproj|solutionrelative:Input \u0026 Validation library\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsString.h",
+              "DocumentMoniker": "D:\\Programming\\C\u002B\u002B\\Input \u0026 Validation library\\Input \u0026 Validation library\\clsString.h",
+              "RelativeDocumentMoniker": "Input \u0026 Validation library\\clsString.h",
+              "ToolTip": "D:\\Programming\\C\u002B\u002B\\Input \u0026 Validation library\\Input \u0026 Validation library\\clsString.h",
+              "RelativeToolTip": "Input \u0026 Validation library\\clsString.h",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAmwAgCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-01T16:08:32.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsDate.h",
+              "DocumentMoniker": "D:\\Programming\\C\u002B\u002B\\Input \u0026 Validation library\\Input \u0026 Validation library\\clsDate.h",
+              "RelativeDocumentMoniker": "Input \u0026 Validation library\\clsDate.h",
+              "ToolTip": "D:\\Programming\\C\u002B\u002B\\Input \u0026 Validation library\\Input \u0026 Validation library\\clsDate.h",
+              "RelativeToolTip": "Input \u0026 Validation library\\clsDate.h",
+              "ViewState": "AQIAAF4EAAAAAAAAAAAQwGwEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-01T16:08:32.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsInputValidate.h",
+              "DocumentMoniker": "D:\\Programming\\C\u002B\u002B\\Input \u0026 Validation library\\Input \u0026 Validation library\\clsInputValidate.h",
+              "RelativeDocumentMoniker": "Input \u0026 Validation library\\clsInputValidate.h",
+              "ToolTip": "D:\\Programming\\C\u002B\u002B\\Input \u0026 Validation library\\Input \u0026 Validation library\\clsInputValidate.h",
+              "RelativeToolTip": "Input \u0026 Validation library\\clsInputValidate.h",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-01T16:08:33.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Input \u0026 Validation library.cpp",
+              "DocumentMoniker": "D:\\Programming\\C\u002B\u002B\\Input \u0026 Validation library\\Input \u0026 Validation library\\Input \u0026 Validation library.cpp",
+              "RelativeDocumentMoniker": "Input \u0026 Validation library\\Input \u0026 Validation library.cpp",
+              "ToolTip": "D:\\Programming\\C\u002B\u002B\\Input \u0026 Validation library\\Input \u0026 Validation library\\Input \u0026 Validation library.cpp",
+              "RelativeToolTip": "Input \u0026 Validation library\\Input \u0026 Validation library.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-01T16:08:33.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
